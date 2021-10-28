@@ -8,4 +8,4 @@ Repo Eğitiminde aldığım direktifler doğrutusunda ilerledim.
 
 # LICENSE
 
-{MIT} (https://github.com/burakozo/kodluyoruzilkrepo/blob/main/LICENSE)
+[MIT](https://github.com/burakozo/kodluyoruzilkrepo/blob/main/LICENSE)
